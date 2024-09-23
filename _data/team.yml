@@ -1,0 +1,63 @@
+"Carpentier":
+    firstname: Justin 
+    url: https//jcarpent.github.io/
+    profilepic: justin_carpentier.jpg
+    position: Inria
+    alumni: false
+    permanent: true 
+
+"Caron":
+    firstname: Stéphane 
+    url: https://scaron.info
+    position: Inria
+    profilepic: stephane_caron.jpg
+    alumni: false
+    permanent: true 
+    
+"Chen":
+    firstname: Shizhe
+    url: https://cshizhe.github.io/
+    profilepic: shizhe_chen.jpg
+    position: Inria
+    alumni: false
+    permanent: true 
+
+"Schmid":
+    firstname: Cordelia
+    url: https://cordeliaschmid.github.io/
+    profilepic: cordelia_schmid.jpg
+    position: Inria
+    alumni: false
+    permanent: true 
+
+"Ponce":
+    firstname: Jean
+    url: https://www.di.ens.fr/~ponce/
+    profilepic: jean_ponce.jpg
+    position: Inria
+    alumni: false
+    permanent: true 
+
+"Guieu":
+    firstname: Julien 
+    url: . 
+    profilepic: julien_guieu.jpg
+    position: Inria, team assistant
+    alumni: false
+    permanent: true 
+    
+"Andrews":
+    firstname: Roland
+    url: https://www.linkedin.com/in/roland-andrews/
+    profilepic: roland_andrews.jpeg
+    position: PhD student
+    alumni: false
+    permanent: false
+    
+"Dümbgen":
+    firstname: Frederike 
+    url: https://duembgen.github.io
+    profilepic: frederike_duembgen.png
+    position: Postdoc
+    alumni: false
+    permanent: false

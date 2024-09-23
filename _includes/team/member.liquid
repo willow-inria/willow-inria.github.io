@@ -1,0 +1,35 @@
+{% assign member =  include.member %}
+
+{%- assign full_name = member[1].firstname | append: " " | append: member[0] -%}
+{%- assign axes = " " -%}
+{%- for axis in member[1].axes -%}
+  {%- assign axes = axes | append: " " | append: "axis-" | append: axis -%}
+{%- endfor -%}
+
+<!-- <div class="member text-center {{member[1].position}} {{axes}}">
+<a href="{{ member[1].url }}" target="_blank">
+<div class="reflection-container">
+  {% for i in (1..100) %}
+    <span class="reflection-grid-cell reflection-grid-cell-{{i}}"></span>
+  {% endfor %}
+  <div class="reflection-content"><img class="member-img-light w-100" alt="{{ full_name }}" src="{{ member[1].profilepic | prepend: '/assets/img/team/' | relative_url }}"></div>
+</div>
+  {{ full_name }}</a><br>
+  {{member[1].position}}
+  {% if member[1].alumni != true}
+  {% else %}
+    <br> Went to {{member[1].movedto}}
+  {% endif %}
+</div> -->
+
+<div class="member text-center {{member[1].position}}">
+  <a href="{{ member[1].url }}" target="_blank"><img class="member-img-light w-100" alt="{{ full_name }}" src="{{ member[1].profilepic | prepend: '/assets/img/team/' | relative_url }}">
+  {% if member[1].alumni != true %}
+    {{ full_name }}</a><br> ({{member[1].position}})
+  {% else %}
+    {{ full_name }}</a><br>{{member[1].position}}
+      {% if member[1].movedto != "none" %}
+        <br> <span class="movedto">(moved to {{member[1].movedto}})</span>
+      {% endif %}
+  {% endif %}
+</div>
