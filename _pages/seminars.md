@@ -3,7 +3,7 @@ layout: seminars
 permalink: /seminars/
 title: Seminars
 nav: true
-nav_order: 5
+nav_order: 4
 description: 
 ---
 

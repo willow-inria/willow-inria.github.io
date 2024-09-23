@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /code/
-title: Code
+permalink: /software/
+title: Software
 description: 
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 {% if site.data.repositories.github_users %}

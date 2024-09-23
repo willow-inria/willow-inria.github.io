@@ -3,61 +3,85 @@
     url: https//jcarpent.github.io/
     profilepic: justin_carpentier.jpg
     position: Inria
-    alumni: false
-    permanent: true 
+    type: "faculty"
+    almuni: false
 
 "Caron":
     firstname: Stéphane 
     url: https://scaron.info
-    position: Inria
     profilepic: stephane_caron.jpg
-    alumni: false
-    permanent: true 
+    position: Inria
+    type: "faculty"
+    almuni: false
     
 "Chen":
     firstname: Shizhe
     url: https://cshizhe.github.io/
     profilepic: shizhe_chen.jpg
     position: Inria
-    alumni: false
-    permanent: true 
+    type: "faculty"
+    almuni: false
 
 "Schmid":
     firstname: Cordelia
     url: https://cordeliaschmid.github.io/
     profilepic: cordelia_schmid.jpg
     position: Inria
-    alumni: false
-    permanent: true 
+    type: "faculty"
+    almuni: false
 
 "Ponce":
     firstname: Jean
     url: https://www.di.ens.fr/~ponce/
     profilepic: jean_ponce.jpg
-    position: Inria
+    position: ENS (PSL), NYU
+    type: "faculty"
     alumni: false
-    permanent: true 
 
 "Guieu":
     firstname: Julien 
     url: . 
     profilepic: julien_guieu.jpg
-    position: Inria, team assistant
+    position: Team assistant
+    type: "staff"
     alumni: false
-    permanent: true 
+
+"Perrin":
+    firstname: Julie
+    url: . 
+    profilepic: nopic.jpg
+    position: Project manager
+    type: "staff"
+    alumni: false
     
 "Andrews":
     firstname: Roland
     url: https://www.linkedin.com/in/roland-andrews/
     profilepic: roland_andrews.jpeg
-    position: PhD student
+    position: PhD student, joint w. SIERRA
+    type: "student"
     alumni: false
-    permanent: false
     
 "Dümbgen":
     firstname: Frederike 
     url: https://duembgen.github.io
     profilepic: frederike_duembgen.png
     position: Postdoc
+    type: "postdoc/engineer"
     alumni: false
-    permanent: false
+
+"Arlaud":
+    firstname: Etienne
+    url: .
+    profilepic: etienne_arlaud.jpg
+    position: Engineer
+    type: "postdoc/engineer"
+    alumni: false
+
+"Wingo":
+    firstname: Bruce
+    url: .
+    profilepic: bruce_wingo.jpeg
+    position: visiting PhD student, advised by Seth Hutchinson
+    type: "visitor"
+    alumni: false
