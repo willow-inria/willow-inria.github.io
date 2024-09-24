@@ -7,6 +7,11 @@ nav: true
 nav_order: 3
 ---
 
+<script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+  }
+</script>
 
 <style type="text/css">
 
@@ -15,7 +20,7 @@ nav_order: 3
   padding-bottom: 56.25%;
   padding-top: 0%;
   height: 0;
-  overflow: auto;
+  overflow: hidden;
 }
 .iframecontent iframe {
 	position: ; 
@@ -24,16 +29,15 @@ nav_order: 3
 	right: 0px; 
 	border: none; 
 	z-index: -1; 
-	height: 1000pt; 
+	height: auto; 
 	width: 100%;
 }
 </style>
 
 
-
-Below is generated automatically from [HAL](https://hal.science). 
-Direct access to the full list is available [here](https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?labos_exp=willow&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondense.css).
-
 <div class="iframecontent">
-<iframe src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?labos_exp=willow&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondense.css"></iframe>
+	<iframe src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?labos_exp=willow&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondense.css" onload="resizeIframe(this);" scrolling="auto"></iframe>
 </div>
+
+This list of publications is automatically generated from [HAL](https://hal.science). 
+Direct access to the full list is available [here](https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?labos_exp=willow&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondense.css).
