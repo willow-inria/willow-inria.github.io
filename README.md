@@ -13,7 +13,7 @@ If you want to test changes locally, you can follow [these](https://docs.github.
 
 ### Add team members
 
-- Add your profile pick to [assets/img/team/](assets/img/team/).
+- Add your profile picture to [assets/img/team/](assets/img/team/).
 - Add entry in [_data/team.yml](_data/seminars.yml). It doesn't matter where, all members will be sorted by category. 
 - Specify the name of your profile pic (without path), your position, and the type: "faculty", "postdoc/engineer", "student", "visitor" and "staff".
 
