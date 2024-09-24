@@ -4,6 +4,10 @@ repo_description_lines_max: 4
 
 github_repos:
   - stack-of-tasks/pinocchio
+  - stack-of-tasks/eigenpy
+  - humanoid-path-planner/hpp-fcl
+  - simple-robotics/simple
   - simple-robotics/proxsuite
   - simple-robotics/aligator
   - simple-robotics/cosypose
+  - megapose6d/megapose6d
