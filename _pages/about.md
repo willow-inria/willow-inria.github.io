@@ -40,7 +40,7 @@ Willow is also developping [impactful software](./software/) centered around its
   <div>
         {% include figure.liquid loading="eager" path="assets/img/willow-sierra.jpg" title="Sierra and Willow teams in Avignon, October 2021." class="img-fluid rounded z-depth-1" %}
   <div class="caption">
-   <a href="https://www.di.ens.fr/sierra/">Sierra</a> and <a href="https://www.di.ens.fr/willow/">Willow</a> teams in Avignon for they annual retreat, October 2021.
+   <a href="https://www.di.ens.fr/sierra/">Sierra</a> and <a href="https://www.di.ens.fr/willow/">Willow</a> teams in Avignon for their annual retreat, October 2021.
   </div>
   </div>
 </div>
