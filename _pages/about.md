@@ -24,14 +24,14 @@ We do research in **computer vision, machine learning, robotics, optimization an
 
 The Willow team was founded in 2007 by [Jean Ponce](https://www.di.ens.fr/~ponce/) as a research team studying representational issues in visual object recognition and scene understanding, with the objective to develop geometric, physical, and statistical models for all components of the image interpretation process, including illumination, materials, objects, scenes, and human activities. 
 Since 2019, the Willow team has started a new research track centered around robotics.
-Since 2023, the team is headed by led by [Justin Carpentier](https://jcarpent.github.io), who has been leading efforts within the team towards robotics and control.
+Since 2023, the team is headed by [Justin Carpentier](https://jcarpent.github.io).
 
 The research done in Willow revolves around three main axis:
 -  Visual recognition and reconstruction of images and videos,
 -  Image restoration and enhancement,
 -  Learning embodied representations for robotics.
 
-Willow is also developping [impactful software](./software/) centered around its research activities, which is today largely used in both academia and industry.
+Willow also develops [impactful software](./software/) centered around its research activities, which is today used in both academia and industry sectors.
 
 <div class="row">
   <div>
