@@ -18,11 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<br>
 [Willow](https://www.di.ens.fr/willow/) is a joint team between 
 [Inria Paris](https://www.inria.fr/en/inria-paris-centre), the [computer science department of ENS Paris](https://www.di.ens.fr/set_english), and [CNRS](https://www.cnrs.fr/en).
-
-<br>
 We do research in **computer vision, machine learning, robotics, optimization and control**. 
 
 The Willow team was founded in 2007 by [Jean Ponce](https://www.di.ens.fr/~ponce/) as a research team studying representational issues in visual object recognition and scene understanding, with the objective to develop geometric, physical, and statistical models for all components of the image interpretation process, including illumination, materials, objects, scenes, and human activities. 
