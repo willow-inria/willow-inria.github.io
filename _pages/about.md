@@ -37,14 +37,10 @@ The research done in Willow revolves around three main axis:
 Willow is also developping [impactful software](./software/) centered around its research activities, which is today largely used in both academia and industry.
 
 <div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/willow-rss-crop.jpg" title="Willow robotics subteam in R:SS, TU Delft, July 2024." class="img-fluid rounded z-depth-1" %}
-   <a href="https://www.di.ens.fr/willow/">Willow</a> robotics subteam in R:SS, TU Delft, July 2024. 
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
+  <div>
         {% include figure.liquid loading="eager" path="assets/img/willow-sierra.jpg" title="Sierra and Willow teams in Avignon, October 2021." class="img-fluid rounded z-depth-1" %}
   <div class="caption">
-   <a href="https://www.di.ens.fr/sierra/">Sierra</a> and <a href="https://www.di.ens.fr/willow/">Willow</a> teams in Avignon, October 2021.
+   <a href="https://www.di.ens.fr/sierra/">Sierra</a> and <a href="https://www.di.ens.fr/willow/">Willow</a> teams in Avignon for they annual retreat, October 2021.
   </div>
   </div>
 </div>
