@@ -36,7 +36,7 @@ nav_order: 3
 
 
 <div class="iframecontent">
-	<iframe src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?labos_exp=willow&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondense.css" onload="resizeIframe(this);" scrolling="auto"></iframe>
+	<iframe src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?labos_exp=willow&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondense.css" scrolling="auto"></iframe>
 </div>
 
 This list of publications is automatically generated from [HAL](https://hal.science). 
