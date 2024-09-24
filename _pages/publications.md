@@ -32,7 +32,7 @@ nav_order: 3
 
 
 Below is generated automatically from [HAL](https://hal.science). 
-Direct access to the tool is available [here]("https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?labos_exp=willow&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondense.css").
+Direct access to the full list is available [here](https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?labos_exp=willow&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondense.css).
 
 <div class="iframecontent">
 <iframe src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?labos_exp=willow&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondense.css"></iframe>
