@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Willow-Inria.github.io/sitemap.xml
+Sitemap: https://willow-inria.github.io/sitemap.xml
