@@ -29,7 +29,7 @@ nav_order: 3
 	right: 0px; 
 	border: none; 
 	z-index: -1; 
-	height: auto; 
+	height: 1000px; 
 	width: 100%;
 }
 </style>
