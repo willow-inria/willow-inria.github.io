@@ -109,3 +109,10 @@
     position: PhD student
     type: "student"
     alumni: false
+
+"Fiastre":
+    firstname: Gabriel
+    url: https://www.gabriel.fiastre.fr/
+    profilepic: PhD student
+    type: "student"
+    alumni: false
