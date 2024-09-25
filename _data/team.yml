@@ -110,6 +110,14 @@
     type: "student"
     alumni: false
 
+"Ventura":
+    firstname: Lucas
+    url: http://lucasventura.com/
+    profilepic: lucas_ventura.png
+    position: PhD student
+    type: "student"
+    alumni: false
+
 "Chabal":
     firstname: Thomas
     url: https://thomaschabal.github.io/
