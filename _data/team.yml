@@ -109,3 +109,10 @@
     position: PhD student
     type: "student"
     alumni: false
+"Tordjman":
+    firstname: Valentin
+    url:
+    profile_pic: valentin_tordjman.jpg
+    position: Intern
+    type: "student"
+    alumni: false
