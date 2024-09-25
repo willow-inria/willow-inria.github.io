@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Willow team
-first_name: 
+title: blank
+first_name: Willow
 middle_name: 
-last_name: 
+last_name: team
 email: 
 description:  # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: Willow team (Inria Paris). Powered by <a href="https://github.com/alshedivat/al-folio/">Jekyll/al-folio</a> and inspired from <a href="https://astra-vision.github.io/">astra-vision</a> and <a href="https://sierra-mlopt.github.io/">Sierra</a>.
