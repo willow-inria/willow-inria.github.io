@@ -109,3 +109,11 @@
     position: PhD student
     type: "student"
     alumni: false
+
+"Chen":
+    firstname: Zerui
+    url: https://zerchen.github.io/
+    profilepic: zerui_chen.jpg
+    position: PhD student
+    type: "student"
+    alumni: false
