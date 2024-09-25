@@ -85,3 +85,27 @@
     position: visiting PhD student, advised by Seth Hutchinson
     type: "visitor"
     alumni: false
+
+"Schramm":
+    firstname: Fabian
+    url: https://fabinsch.github.io/
+    profilepic: fabian_schramm.png
+    position: PhD student
+    type: "student"
+    alumni: false
+
+"Le Lidec":
+    firstname: Quentin
+    url: https://quentinll.github.io/
+    profilepic: quentin_lelidec.jpg
+    position: PhD student
+    type: "student"
+    alumni: false
+
+"Montaut":
+    firstname: Louis
+    url: https://lmontaut.github.io/
+    profilepic: louis_montaut.jpg
+    position: PhD student
+    type: "student"
+    alumni: false
