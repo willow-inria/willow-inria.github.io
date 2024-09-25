@@ -82,7 +82,7 @@ nav_order: 2
 
 
 <br>
-<h3 class="students" align="right">Visitors</h3>
+<h3 class="visitors" align="right">Visitors</h3>
 <div class="team">
 {% assign names_sorted = "" | split: ',' %}
 {% for member in site.data.team %}
@@ -99,25 +99,13 @@ nav_order: 2
 {% endfor %}
 </div>
 
-<!-- display Alumni in their data listing order -->
-<!-- could not manage to sort by alumni_date since Liquid does not allow modifying object w/o use of a plugin -->
-{% assign names_sorted = "" | split: ',' %}
-{% for member in site.data.team %}
-  {% if member[1].alumni == true %}
-    {% assign names_sorted = names_sorted | push: member[0] %}
-  {% endif %}
-{% endfor %}
-{% assign names_sorted = names_sorted | sort_natural %}
-{% if names_sorted.length > 0 %}
 <br>
 <br>
 <br>
 <h2 class="alumni" align="right">Alumni</h2>
-<div class="team alumni">
-{% for member in site.data.team %}
-  {% if member[1].alumni == true %}
-    {% include team/member.liquid member=member %}
-  {% endif %}
-{% endfor %}
-</div>
-{% endif %}
+
+{% include alumni.liquid %}
+
+<h2 class="former-visitors" align="right">Former Visitors</h2>
+
+{% include former_visitors.liquid %}

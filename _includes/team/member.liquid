@@ -16,20 +16,9 @@
 </div>
   {{ full_name }}</a><br>
   {{member[1].position}}
-  {% if member[1].alumni != true}
-  {% else %}
-    <br> Went to {{member[1].movedto}}
-  {% endif %}
 </div> -->
 
 <div class="member text-center {{member[1].position}}">
   <a href="{{ member[1].url }}" target="_blank"><img class="member-img-light w-100" alt="{{ full_name }}" src="{{ member[1].profilepic | prepend: '/assets/img/team/' | relative_url }}">
-  {% if member[1].alumni != true %}
     {{ full_name }}</a><br> ({{member[1].position}})
-  {% else %}
-    {{ full_name }}</a><br>{{member[1].position}}
-      {% if member[1].movedto != "none" %}
-        <br> <span class="movedto">(moved to {{member[1].movedto}})</span>
-      {% endif %}
-  {% endif %}
 </div>
