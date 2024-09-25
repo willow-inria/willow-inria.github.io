@@ -109,10 +109,27 @@
     position: PhD student
     type: "student"
     alumni: false
+
 "Tordjman":
     firstname: Valentin
     url: .
     profilepic: valentin_tordjman.jpg
     position: Intern
+    type: "student"
+    alumni: false
+
+"Ventura":
+    firstname: Lucas
+    url: http://lucasventura.com/
+    profilepic: lucas_ventura.png
+    position: PhD student
+    type: "student"
+    alumni: false
+
+"Chabal":
+    firstname: Thomas
+    url: https://thomaschabal.github.io/
+    profilepic: thomas_chabal.jpg
+    position: PhD student
     type: "student"
     alumni: false
