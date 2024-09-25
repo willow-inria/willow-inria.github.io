@@ -111,8 +111,8 @@
     alumni: false
 "Tordjman":
     firstname: Valentin
-    url:
-    profile_pic: valentin_tordjman.jpg
+    url: .
+    profilepic: valentin_tordjman.jpg
     position: Intern
     type: "student"
     alumni: false
