@@ -61,6 +61,14 @@
     position: PhD student, joint w. SIERRA
     type: "student"
     alumni: false
+
+"Garcia-Pinel":
+    firstname: Ricardo
+    url: https://rjgpinel.github.io/
+    profilepic: ricardo_garcia.jpg
+    position: PhD student
+    type: "student"
+    alumni: false
     
 "Dümbgen":
     firstname: Frederike 
