@@ -110,6 +110,14 @@
     type: "student"
     alumni: false
 
+"Tordjman":
+    firstname: Valentin
+    url: .
+    profilepic: valentin_tordjman.jpg
+    position: Intern
+    type: "student"
+    alumni: false
+
 "Ventura":
     firstname: Lucas
     url: http://lucasventura.com/
