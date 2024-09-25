@@ -109,3 +109,11 @@
     position: PhD student
     type: "student"
     alumni: false
+
+"Ménager":
+    firstname: Etienne
+    url: https://www.linkedin.com/in/etienne-ménager-6679b7127/
+    profilepic: etienne_menager.jpg
+    position: Postdoc
+    type: "postdoc/engineer"
+    alumni: false
