@@ -61,6 +61,14 @@
     position: PhD student, joint w. SIERRA
     type: "student"
     alumni: false
+
+"Garcia-Pinel":
+    firstname: Ricardo
+    url: https://rjgpinel.github.io/
+    profilepic: ricardo_garcia.jpg
+    position: PhD student
+    type: "student"
+    alumni: false
     
 "Dümbgen":
     firstname: Frederike 
@@ -116,4 +124,44 @@
     profilepic: etienne_menager.jpg
     position: Postdoc
     type: "postdoc/engineer"
+    alumni: false
+
+"Chen":
+    firstname: Zerui
+    url: https://zerchen.github.io/
+    profilepic: zerui_chen.jpg
+    position: PhD student
+    type: "student"
+    alumni: false
+
+"Fiastre":
+    firstname: Gabriel
+    url: https://www.gabriel.fiastre.fr/
+    profilepic: gabriel_fiastre.jpg
+    position: PhD student
+    type: "student"
+    alumni: false
+
+"Tordjman":
+    firstname: Valentin
+    url: .
+    profilepic: valentin_tordjman.jpg
+    position: Intern
+    type: "student"
+    alumni: false
+
+"Ventura":
+    firstname: Lucas
+    url: http://lucasventura.com/
+    profilepic: lucas_ventura.png
+    position: PhD student
+    type: "student"
+    alumni: false
+
+"Chabal":
+    firstname: Thomas
+    url: https://thomaschabal.github.io/
+    profilepic: thomas_chabal.jpg
+    position: PhD student
+    type: "student"
     alumni: false
