@@ -11,3 +11,5 @@ github_repos:
   - simple-robotics/aligator
   - simple-robotics/cosypose
   - megapose6d/megapose6d
+  - qpsolvers/qpsolvers
+  - robot-descriptions/robot_descriptions.py
