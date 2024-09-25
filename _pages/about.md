@@ -31,7 +31,7 @@ The research done in Willow revolves around three main axis:
 -  Image restoration and enhancement,
 -  Learning embodied representations for robotics.
 
-Willow also develops [impactful software](software.md) centered around its research activities, which is today used in both academia and industry sectors.
+Willow also develops [impactful software](https://willow-inria.github.io/software/) centered around its research activities, which is today used in both academia and industry sectors.
 
 <div class="row">
   <div>
