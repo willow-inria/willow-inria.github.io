@@ -249,3 +249,10 @@
     profilepic: nopic.jpg
     position: PhD student
     type: "student"
+
+"Nguimatsia Tiofack":
+    firstname: Franki
+    url: https://www.linkedin.com/in/frankinguimatsia/
+    profilepic: franki_nguimatsia.jpeg
+    position: Intern
+    type: "student"
