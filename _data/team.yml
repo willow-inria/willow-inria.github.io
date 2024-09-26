@@ -293,3 +293,19 @@
     profilepic: franki_nguimatsia.jpeg
     position: Intern
     type: "student"
+
+"Petit Talamon":
+    firstname: Marguerite
+    lastname: Petit Talamon
+    url: https://www.linkedin.com/in/marguerite-petit-talamon-6453b01b8/
+    profilepic: marguerite_ptalamon.jpeg
+    position: Intern
+    type: "student"
+
+"Mahdi":
+    firstname: Imen
+    lastname: Mahdi
+    url: https://www.linkedin.com/in/imen-mahdi/
+    profilepic: imen_mahdi.jpeg
+    position: Intern
+    type: "student"
