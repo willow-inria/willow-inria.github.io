@@ -166,14 +166,6 @@
     position: PhD student
     type: "student"
 
-"Yang":
-    firstname: Antoine
-    url: https://antoyang.github.io/
-    profilepic: antoine_yang.jpg
-    position: Google DeepMind
-    type: "student"
-    alumni: True
-
 "Chahine":
     firstname: Nicolas
     url: https://www.linkedin.com/in/nicolas-chahine
@@ -188,35 +180,12 @@
     position: PhD student
     type: "student"
 
-"Zorina":
-    firstname: Kateryna
-    url: https://www.linkedin.com/in/kateryna-zorina/
-    profilepic: nopic.jpg
-    position: PhD student
-    type: "former_visitor"
-
 "De Mont Marin":
     firstname: Yann
     url: https://www.linkedin.com/in/yann-de-mont-marin-068b9992
     profilepic: yann_dm.jpg
     position: PhD student
     type: "student"
-
-"Le Moing":
-    firstname: Guillaume
-    url: https://16lemoing.github.io
-    profilepic: guillaume_lemoing.jpg
-    position: Google DeepMind
-    type: "student"
-    alumni: True
-
-"Bardes":
-    firstname: Adrien
-    url: https://fr.linkedin.com/in/adrien-bardes-48a080129
-    profilepic: adrien_bardes2.jpeg
-    position: Meta
-    type: "student"
-    alumni: True
 
 "Jallet":
     firstname: Wilson
