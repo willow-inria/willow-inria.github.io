@@ -81,7 +81,6 @@
     profilepic: bruce_wingo.jpeg
     position: visiting PhD student, advised by Seth Hutchinson
     type: "visitor"
-    alumni: false
 
 "Schramm":
     firstname: Fabian
@@ -152,7 +151,6 @@
     profilepic: etienne_moullet.jpg
     position: Postdoc
     type: "postdoc/engineer"
-    alumni: false
 
 "Millan":
     firstname: Mégane
@@ -160,7 +158,6 @@
     profilepic: megane_millan.jpg
     position: Engineer
     type: "postdoc/engineer"
-    alumni: false
 
 "Bounou":
     firstname: Oumayma
@@ -168,7 +165,6 @@
     profilepic: oumayma_bounou.png
     position: PhD student
     type: "student"
-    alumni: false
 
 "Yang":
     firstname: Antoine
@@ -184,7 +180,6 @@
     profilepic: nicolas_chahine.png
     position: PhD student
     type: "student"
-    alumni: false
 
 "Bodrito":
     firstname: Théo
@@ -192,7 +187,6 @@
     profilepic: theo_bodrito.jpg
     position: PhD student
     type: "student"
-    alumni: false
 
 "Zorina":
     firstname: Kateryna
@@ -200,7 +194,6 @@
     profilepic: nopic.jpg
     position: PhD student
     type: "former_visitor"
-    alumni: false
 
 "De Mont Marin":
     firstname: Yann
@@ -208,7 +201,6 @@
     profilepic: yann_dm.jpg
     position: PhD student
     type: "student"
-    alumni: false
 
 "Le Moing":
     firstname: Guillaume
@@ -232,7 +224,6 @@
     profilepic: wilson_jallet.png
     position: PhD student
     type: "student"
-    alumni: false
 
 "Vincent":
     firstname: Elliot
@@ -240,7 +231,6 @@
     profilepic: elliot_vincent.png
     position: PhD student
     type: "student"
-    alumni: false
 
 "Futeral-Peter":
     firstname: Matthieu
@@ -248,7 +238,6 @@
     profilepic: matthieu_futeralpeter.jpg
     position: PhD student
     type: "student"
-    alumni: false
 
 "Khan":
     firstname: Zeeshan
@@ -256,7 +245,6 @@
     profilepic: zeechan_khan.jpg
     position: PhD student
     type: "student"
-    alumni: false
 
 "Vaillant":
     firstname: Joris
@@ -264,7 +252,6 @@
     profilepic: nopic.jpg
     position: Engineer
     type: "postdoc/engineer"
-    alumni: false
 
 "Raverdy":
     firstname: Pierre-Guillaume
@@ -272,7 +259,6 @@
     profilepic: nopic.jpg
     position: Engineer
     type: "postdoc/engineer"
-    alumni: false
 
 "Sathya":
     firstname: Ajay
@@ -280,7 +266,6 @@
     profilepic: ajay_sathya.jpg
     position: Postdoc
     type: "postdoc/engineer"
-    alumni: false
 
 "Gardères":
     firstname: François
@@ -288,7 +273,6 @@
     profilepic: francois_garderes.jpg
     position: PhD student
     type: "student"
-    alumni: false
 
 "Gökbakan":
     firstname: Bora
@@ -296,4 +280,3 @@
     profilepic: nopic.jpg
     position: PhD student
     type: "student"
-    alumni: false
