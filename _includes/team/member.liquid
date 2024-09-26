@@ -1,6 +1,6 @@
 {% assign member =  include.member %}
 
-{%- assign full_name = member[1].firstname | append: " " | append: member[0] -%}
+{%- assign full_name = member[1].firstname | append: " " | append: member[1].lastname -%}
 {%- assign axes = " " -%}
 {%- for axis in member[1].axes -%}
   {%- assign axes = axes | append: " " | append: "axis-" | append: axis -%}
