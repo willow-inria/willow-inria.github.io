@@ -1,19 +1,22 @@
 "Carpentier":
-    firstname: Justin 
+    firstname: Justin
+    lastname: Carpentier
     url: https://jcarpent.github.io/
     profilepic: justin_carpentier.jpg
     position: Inria
     type: "faculty"
 
 "Caron":
-    firstname: Stéphane 
+    firstname: Stéphane
+    lastname: Caron
     url: https://scaron.info
     profilepic: stephane_caron.jpg
     position: Inria
     type: "faculty"
-    
-"Chen":
+
+"ChenShizhe":
     firstname: Shizhe
+    lastname: Chen
     url: https://cshizhe.github.io/
     profilepic: shizhe_chen.jpg
     position: Inria
@@ -21,6 +24,7 @@
 
 "Schmid":
     firstname: Cordelia
+    lastname: Schmid
     url: https://cordeliaschmid.github.io/
     profilepic: cordelia_schmid.jpg
     position: Inria
@@ -28,27 +32,31 @@
 
 "Ponce":
     firstname: Jean
+    lastname: Ponce
     url: https://www.di.ens.fr/~ponce/
     profilepic: jean_ponce.jpg
     position: ENS (PSL), NYU
     type: "faculty"
 
 "Guieu":
-    firstname: Julien 
-    url: . 
+    firstname: Julien
+    lastname: Guieu
+    url: .
     profilepic: julien_guieu.jpg
     position: Team assistant
     type: "staff"
 
 "Perrin":
     firstname: Julie
-    url: . 
+    lastname: Perrin
+    url: .
     profilepic: nopic.jpg
     position: Project manager
     type: "staff"
-    
+
 "Andrews":
     firstname: Roland
+    lastname: Andrews
     url: https://www.linkedin.com/in/roland-andrews/
     profilepic: roland_andrews.jpeg
     position: PhD student, joint w. SIERRA
@@ -56,13 +64,15 @@
 
 "Garcia-Pinel":
     firstname: Ricardo
+    lastname: Garcia-Pinel
     url: https://rjgpinel.github.io/
     profilepic: ricardo_garcia.jpg
     position: PhD student
     type: "student"
-    
+
 "Dümbgen":
-    firstname: Frederike 
+    firstname: Frederike
+    lastname: Dümbgen
     url: https://duembgen.github.io
     profilepic: frederike_duembgen.png
     position: Postdoc
@@ -70,6 +80,7 @@
 
 "Arlaud":
     firstname: Etienne
+    lastname: Arlaud
     url: .
     profilepic: etienne_arlaud.jpg
     position: Engineer
@@ -77,6 +88,7 @@
 
 "Wingo":
     firstname: Bruce
+    lastname: Wingo
     url: .
     profilepic: bruce_wingo.jpeg
     position: visiting PhD student, advised by Seth Hutchinson
@@ -84,6 +96,7 @@
 
 "Schramm":
     firstname: Fabian
+    lastname: Schramm
     url: https://fabinsch.github.io/
     profilepic: fabian_schramm.png
     position: PhD student
@@ -91,6 +104,7 @@
 
 "Le Lidec":
     firstname: Quentin
+    lastname: Le Lidec
     url: https://quentinll.github.io/
     profilepic: quentin_lelidec.jpg
     position: PhD student
@@ -98,6 +112,7 @@
 
 "Montaut":
     firstname: Louis
+    lastname: Montaut
     url: https://lmontaut.github.io/
     profilepic: louis_montaut.jpg
     position: PhD student
@@ -105,13 +120,15 @@
 
 "Ménager":
     firstname: Etienne
+    lastname: Ménager
     url: https://www.linkedin.com/in/etienne-ménager-6679b7127/
     profilepic: etienne_menager.jpg
     position: Postdoc
     type: "postdoc/engineer"
 
-"Chen":
+"ChenZerui":
     firstname: Zerui
+    lastname: Chen
     url: https://zerchen.github.io/
     profilepic: zerui_chen.jpg
     position: PhD student
@@ -119,6 +136,7 @@
 
 "Fiastre":
     firstname: Gabriel
+    lastname: Fiastre
     url: https://www.gabriel.fiastre.fr/
     profilepic: gabriel_fiastre.jpg
     position: PhD student
@@ -126,6 +144,7 @@
 
 "Tordjman":
     firstname: Valentin
+    lastname: Tordjman
     url: .
     profilepic: valentin_tordjman.jpg
     position: Intern
@@ -133,6 +152,7 @@
 
 "Ventura":
     firstname: Lucas
+    lastname: Ventura
     url: http://lucasventura.com/
     profilepic: lucas_ventura.png
     position: PhD student
@@ -140,6 +160,7 @@
 
 "Chabal":
     firstname: Thomas
+    lastname: Chabal
     url: https://thomaschabal.github.io/
     profilepic: thomas_chabal.jpg
     position: PhD student
@@ -147,6 +168,7 @@
 
 "Moullet":
     firstname: Etienne
+    lastname: Moullet
     url: https://www.linkedin.com/in/etienne-moullet-a133a752
     profilepic: etienne_moullet.jpg
     position: Postdoc
@@ -154,6 +176,7 @@
 
 "Millan":
     firstname: Mégane
+    lastname: Millan
     url: https://www.linkedin.com/in/megane-millan-0a1791125/
     profilepic: megane_millan.jpg
     position: Engineer
@@ -161,6 +184,7 @@
 
 "Bounou":
     firstname: Oumayma
+    lastname: Bounou
     url: https://oumayb.github.io
     profilepic: oumayma_bounou.png
     position: PhD student
@@ -168,6 +192,7 @@
 
 "Chahine":
     firstname: Nicolas
+    lastname: Chahine
     url: https://www.linkedin.com/in/nicolas-chahine
     profilepic: nicolas_chahine.png
     position: PhD student
@@ -175,6 +200,7 @@
 
 "Bodrito":
     firstname: Théo
+    lastname: Bodrito
     url: https://www.linkedin.com/in/theobodrito
     profilepic: theo_bodrito.jpg
     position: PhD student
@@ -182,6 +208,7 @@
 
 "De Mont Marin":
     firstname: Yann
+    lastname: De Mont Marin
     url: https://www.linkedin.com/in/yann-de-mont-marin-068b9992
     profilepic: yann_dm.jpg
     position: PhD student
@@ -189,6 +216,7 @@
 
 "Jallet":
     firstname: Wilson
+    lastname: Jallet
     url: https://manifoldfr.github.io/
     profilepic: wilson_jallet.png
     position: PhD student
@@ -196,6 +224,7 @@
 
 "Vincent":
     firstname: Elliot
+    lastname: Vincent
     url: https://www.linkedin.com/in/elliot-vincent/
     profilepic: elliot_vincent.png
     position: PhD student
@@ -203,6 +232,7 @@
 
 "Futeral-Peter":
     firstname: Matthieu
+    lastname: Futeral-Peter
     url: https://www.linkedin.com/in/matthieu-futeral-peter/
     profilepic: matthieu_futeralpeter.jpg
     position: PhD student
@@ -210,6 +240,7 @@
 
 "Khan":
     firstname: Zeeshan
+    lastname: Khan
     url: https://zeeshank95.github.io/
     profilepic: zeechan_khan.jpg
     position: PhD student
@@ -217,6 +248,7 @@
 
 "Vaillant":
     firstname: Joris
+    lastname: Vaillant
     url: .
     profilepic: nopic.jpg
     position: Engineer
@@ -224,6 +256,7 @@
 
 "Raverdy":
     firstname: Pierre-Guillaume
+    lastname: Raverdy
     url: https://www.linkedin.com/in/pgraverdy/
     profilepic: nopic.jpg
     position: Engineer
@@ -231,6 +264,7 @@
 
 "Sathya":
     firstname: Ajay
+    lastname: Sathya
     url: https://www.linkedin.com/in/ajay-sathya-438b0144/
     profilepic: ajay_sathya.jpg
     position: Postdoc
@@ -238,6 +272,7 @@
 
 "Gardères":
     firstname: François
+    lastname: Gardères
     url: https://www.linkedin.com/in/francois-garderes/
     profilepic: francois_garderes.jpg
     position: PhD student
@@ -245,6 +280,7 @@
 
 "Gökbakan":
     firstname: Bora
+    lastname: Gökbakan
     url: .
     profilepic: nopic.jpg
     position: PhD student
@@ -252,6 +288,7 @@
 
 "Nguimatsia Tiofack":
     firstname: Franki
+    lastname: Nguimatsia Tiofack
     url: https://www.linkedin.com/in/frankinguimatsia/
     profilepic: franki_nguimatsia.jpeg
     position: Intern
