@@ -145,3 +145,155 @@
     profilepic: thomas_chabal.jpg
     position: PhD student
     type: "student"
+
+"Moullet":
+    firstname: Etienne
+    url: https://www.linkedin.com/in/etienne-moullet-a133a752
+    profilepic: etienne_moullet.jpg
+    position: Postdoc
+    type: "postdoc/engineer"
+    alumni: false
+
+"Millan":
+    firstname: Mégane
+    url: https://www.linkedin.com/in/megane-millan-0a1791125/
+    profilepic: megane_millan.jpg
+    position: Engineer
+    type: "postdoc/engineer"
+    alumni: false
+
+"Bounou":
+    firstname: Oumayma
+    url: https://oumayb.github.io
+    profilepic: oumayma_bounou.png
+    position: PhD student
+    type: "student"
+    alumni: false
+
+"Yang":
+    firstname: Antoine
+    url: https://antoyang.github.io/
+    profilepic: antoine_yang.jpg
+    position: Google DeepMind
+    type: "student"
+    alumni: True
+
+"Chahine":
+    firstname: Nicolas
+    url: https://www.linkedin.com/in/nicolas-chahine
+    profilepic: nicolas_chahine.png
+    position: PhD student
+    type: "student"
+    alumni: false
+
+"Bodrito":
+    firstname: Théo
+    url: https://www.linkedin.com/in/theobodrito
+    profilepic: theo_bodrito.jpg
+    position: PhD student
+    type: "student"
+    alumni: false
+
+"Zorina":
+    firstname: Kateryna
+    url: https://www.linkedin.com/in/kateryna-zorina/
+    profilepic: nopic.jpg
+    position: PhD student
+    type: "former_visitor"
+    alumni: false
+
+"De Mont Marin":
+    firstname: Yann
+    url: https://www.linkedin.com/in/yann-de-mont-marin-068b9992
+    profilepic: yann_dm.jpg
+    position: PhD student
+    type: "student"
+    alumni: false
+
+"Le Moing":
+    firstname: Guillaume
+    url: https://16lemoing.github.io
+    profilepic: guillaume_lemoing.jpg
+    position: Google DeepMind
+    type: "student"
+    alumni: True
+
+"Bardes":
+    firstname: Adrien
+    url: https://fr.linkedin.com/in/adrien-bardes-48a080129
+    profilepic: adrien_bardes2.jpeg
+    position: Meta
+    type: "student"
+    alumni: True
+
+"Jallet":
+    firstname: Wilson
+    url: https://manifoldfr.github.io/
+    profilepic: wilson_jallet.png
+    position: PhD student
+    type: "student"
+    alumni: false
+
+"Vincent":
+    firstname: Elliot
+    url: https://www.linkedin.com/in/elliot-vincent/
+    profilepic: elliot_vincent.png
+    position: PhD student
+    type: "student"
+    alumni: false
+
+"Futeral-Peter":
+    firstname: Matthieu
+    url: https://www.linkedin.com/in/matthieu-futeral-peter/
+    profilepic: matthieu_futeralpeter.jpg
+    position: PhD student
+    type: "student"
+    alumni: false
+
+"Khan":
+    firstname: Zeeshan
+    url: https://zeeshank95.github.io/
+    profilepic: zeechan_khan.jpg
+    position: PhD student
+    type: "student"
+    alumni: false
+
+"Vaillant":
+    firstname: Joris
+    url: .
+    profilepic: nopic.jpg
+    position: Engineer
+    type: "postdoc/engineer"
+    alumni: false
+
+"Raverdy":
+    firstname: Pierre-Guillaume
+    url: https://www.linkedin.com/in/pgraverdy/
+    profilepic: nopic.jpg
+    position: Engineer
+    type: "postdoc/engineer"
+    alumni: false
+
+"Sathya":
+    firstname: Ajay
+    url: https://www.linkedin.com/in/ajay-sathya-438b0144/
+    profilepic: ajay_sathya.jpg
+    position: Postdoc
+    type: "postdoc/engineer"
+    alumni: false
+
+"Gardères":
+    firstname: François
+    url: https://www.linkedin.com/in/francois-garderes/
+    profilepic: francois_garderes.jpg
+    position: PhD student
+    type: "student"
+    alumni: false
+
+"Gökbakan":
+    firstname: Bora
+    url: .
+    profilepic: nopic.jpg
+    position: PhD student
+    type: "student"
+    alumni: false
