@@ -309,3 +309,11 @@
     profilepic: imen_mahdi.jpeg
     position: Intern
     type: "student"
+
+"Dantec":
+    firstname: Ewen
+    lastname: Dantec
+    url: https://edantec.github.io/
+    profilepic: ewen_dantec.jpg
+    position: Postdoc
+    type: "postdoc/engineer"
