@@ -11,10 +11,8 @@ nav_order: 2
 <div class="team">
 {% assign names_sorted = "" | split: ',' %}
 {% for member in site.data.team %}
-  {% if member[1].alumni != true %}
-    {% if member[1].type == "faculty" %}
-      {% assign names_sorted = names_sorted | push: member[0] %}
-    {% endif %}
+  {% if member[1].type == "faculty" %}
+    {% assign names_sorted = names_sorted | push: member[0] %}
   {% endif %}
 {% endfor %}
 {% assign names_sorted = names_sorted | sort_natural %}
@@ -30,10 +28,8 @@ nav_order: 2
 <div class="team">
 {% assign names_sorted = "" | split: ',' %}
 {% for member in site.data.team %}
-  {% if member[1].alumni != true %}
-    {% if member[1].type == "staff" %}
-      {% assign names_sorted = names_sorted | push: member[0] %}
-    {% endif %}
+  {% if member[1].type == "staff" %}
+    {% assign names_sorted = names_sorted | push: member[0] %}
   {% endif %}
 {% endfor %}
 {% assign names_sorted = names_sorted | sort_natural %}
@@ -49,10 +45,8 @@ nav_order: 2
 <div class="team">
 {% assign names_sorted = "" | split: ',' %}
 {% for member in site.data.team %}
-  {% if member[1].alumni != true %}
-    {% if member[1].type == "postdoc/engineer" %}
-      {% assign names_sorted = names_sorted | push: member[0] %}
-    {% endif %}
+  {% if member[1].type == "postdoc/engineer" %}
+    {% assign names_sorted = names_sorted | push: member[0] %}
   {% endif %}
 {% endfor %}
 {% assign names_sorted = names_sorted | sort_natural %}
@@ -67,10 +61,8 @@ nav_order: 2
 <div class="team">
 {% assign names_sorted = "" | split: ',' %}
 {% for member in site.data.team %}
-  {% if member[1].alumni != true %}
-    {% if member[1].type == "student" %}
-      {% assign names_sorted = names_sorted | push: member[0] %}
-    {% endif %}
+  {% if member[1].type == "student" %}
+    {% assign names_sorted = names_sorted | push: member[0] %}
   {% endif %}
 {% endfor %}
 {% assign names_sorted = names_sorted | sort_natural %}
@@ -86,10 +78,8 @@ nav_order: 2
 <div class="team">
 {% assign names_sorted = "" | split: ',' %}
 {% for member in site.data.team %}
-  {% if member[1].alumni != true %}
-    {% if member[1].type == "visitor" %}
-      {% assign names_sorted = names_sorted | push: member[0] %}
-    {% endif %}
+  {% if member[1].type == "visitor" %}
+    {% assign names_sorted = names_sorted | push: member[0] %}
   {% endif %}
 {% endfor %}
 {% assign names_sorted = names_sorted | sort_natural %}
@@ -102,9 +92,9 @@ nav_order: 2
 <br>
 <br>
 <br>
-<h2 class="alumni" align="right">Alumni</h2>
+<h2 class="former-members" align="right">Former members</h2>
 
-{% include alumni.liquid %}
+{% include former_members.liquid %}
 
 <h2 class="former-visitors" align="right">Former Visitors</h2>
 
