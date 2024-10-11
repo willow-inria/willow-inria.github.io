@@ -1,3 +1,3 @@
 # Willow's group website
 
-Please use [this new repo](github.io/willowsierra/willow_website) moving forward.
+Please use [https://github.io/willowsierra/willow_website](https://github.com/willowsierra/willow_webpage) moving forward.
